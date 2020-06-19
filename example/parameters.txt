@@ -1,0 +1,3 @@
+target	plugins/IRep/example/l_gasseri.fna
+sample1	plugins/IRep/example/l_gasseri.fna-vs-l_gasseri_sample1-shrunk.sam
+sample2	plugins/IRep/example/l_gasseri.fna-vs-l_gasseri_sample2-shrunk.sam

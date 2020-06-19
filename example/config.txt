@@ -1,0 +1,2 @@
+Prefix plugins/IRep/example/
+Plugin IRep inputfile parameters.txt outputfile output

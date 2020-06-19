@@ -1,0 +1,36 @@
+## index of replication (iRep) - thresholds: min cov. = 5, min wins. = 0.98, min r^2 = 0.9, max fragments/Mbp = 175, GC correction min r^2 = 0.0
+# genome	plugins/IRep/example/l_gasseri.fna-vs-l_gasseri_sample1-shrunk.sam	plugins/IRep/example/l_gasseri.fna-vs-l_gasseri_sample2-shrunk.sam
+plugins/IRep/example/l_gasseri.fna	1.906559215638506	2.361137517138996
+#
+## un-filtered index of replication (iRep)
+# genome	plugins/IRep/example/l_gasseri.fna-vs-l_gasseri_sample1-shrunk.sam	plugins/IRep/example/l_gasseri.fna-vs-l_gasseri_sample2-shrunk.sam
+plugins/IRep/example/l_gasseri.fna	1.906559215638506	2.361137517138996
+#
+## raw index of replication (no GC bias correction)
+# genome	plugins/IRep/example/l_gasseri.fna-vs-l_gasseri_sample1-shrunk.sam	plugins/IRep/example/l_gasseri.fna-vs-l_gasseri_sample2-shrunk.sam
+plugins/IRep/example/l_gasseri.fna	1.9181206042659673	2.380084859373945
+#
+## r^2
+# genome	plugins/IRep/example/l_gasseri.fna-vs-l_gasseri_sample1-shrunk.sam	plugins/IRep/example/l_gasseri.fna-vs-l_gasseri_sample2-shrunk.sam
+plugins/IRep/example/l_gasseri.fna	0.9988996508720132	0.9942789514575139
+#
+## coverage
+# genome	plugins/IRep/example/l_gasseri.fna-vs-l_gasseri_sample1-shrunk.sam	plugins/IRep/example/l_gasseri.fna-vs-l_gasseri_sample2-shrunk.sam
+plugins/IRep/example/l_gasseri.fna	9.352049457279216	8.93781095577987
+#
+## % windows passing filter
+# genome	plugins/IRep/example/l_gasseri.fna-vs-l_gasseri_sample1-shrunk.sam	plugins/IRep/example/l_gasseri.fna-vs-l_gasseri_sample2-shrunk.sam
+plugins/IRep/example/l_gasseri.fna	100.00	100.00
+#
+## fragments/Mbp
+# genome	plugins/IRep/example/l_gasseri.fna-vs-l_gasseri_sample1-shrunk.sam	plugins/IRep/example/l_gasseri.fna-vs-l_gasseri_sample2-shrunk.sam
+plugins/IRep/example/l_gasseri.fna	1	1
+#
+## GC bias
+# genome	plugins/IRep/example/l_gasseri.fna-vs-l_gasseri_sample1-shrunk.sam	plugins/IRep/example/l_gasseri.fna-vs-l_gasseri_sample2-shrunk.sam
+plugins/IRep/example/l_gasseri.fna	0.062006224268363996	0.000816622280244355
+#
+## GC r^2
+# genome	plugins/IRep/example/l_gasseri.fna-vs-l_gasseri_sample1-shrunk.sam	plugins/IRep/example/l_gasseri.fna-vs-l_gasseri_sample2-shrunk.sam
+plugins/IRep/example/l_gasseri.fna	0.009408843274407497	0.0004338746957109896
+#
