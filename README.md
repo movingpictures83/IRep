@@ -1,8 +1,9 @@
 # IRep
 # Language: C++
 # Input: TXT
-# Output: TXT
+# Output: Prefix
 # Tested with: PluMA 1.0, GCC 4.8.4
+# Dependencies: iRep==1.1.14
 
 Calculate Index of Replication (Brown et al, 2016), to measure whether or
 not the abundance of a gene or taxon is currently increasing or decreasing.
